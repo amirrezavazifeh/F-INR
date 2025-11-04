@@ -1,5 +1,4 @@
-# Neural Field Fiber Endoscopy
-**Unsupervised Fiber Bundle Artifact Removal Using Neural Fields**
+# Unsupervised Fiber Bundle Artifact Removal Using Neural Fields
 <p align="center">
   <img src="Principle.png" width="1000">
 </p>
