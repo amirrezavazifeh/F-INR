@@ -3,7 +3,7 @@
 **Unsupervised Fiber Bundle Artifact Removal Using Neural Fields**
 
 <p align="center">
-  <img src="principle.pdf" width="600">
+  <img src="Principle.pdf" width="600">
 </p>
 
 ---
